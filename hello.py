@@ -1,5 +1,5 @@
-// For command line git_ex
-// GitHub modification
+//For command line git_ex
+//GitHub modification
 
 println("Hello, world!!")
 println("Hello hello")
